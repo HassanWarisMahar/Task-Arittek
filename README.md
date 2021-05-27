@@ -19,6 +19,6 @@ https://docs.spring.io/spring-data/data-commons/docs/1.6.1.RELEASE/reference/htm
 RDBMS 
 https://medium.com/@ashleylynnrapone/database-design-from-entity-relationship-diagrams-to-physical-diagrams-16da210d01e9
 http://web.mit.edu/11.521/www/lectures/lecture10/lecture10.html
-
+https://dzone.com/articles/introduction-to-spring-data-jpa-part-4-bidirection
 
 
