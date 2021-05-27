@@ -9,5 +9,8 @@ Name it as "TestDb" or your desired name. Note do change that in application.pro
 Import the project into your desired IDE , recommeded IDE is "InteliJ Idea".
 To download the IDE click this link https://www.jetbrains.com/idea/download/#section=windows
 
+Student to Courses Relatiosnsip
+https://www.baeldung.com/jpa-many-to-many
+
 
 
