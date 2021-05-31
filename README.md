@@ -23,3 +23,7 @@ https://dzone.com/articles/introduction-to-spring-data-jpa-part-4-bidirection
 https://github.com/kriscfoster/Spring-Data-JPA-Relationships.git
 
 
+
+https://asbnotebook.com/2019/10/03/jpa-many-to-many-example-spring-boot/
+
+
