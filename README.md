@@ -33,6 +33,9 @@ https://stackoverflow.com/questions/5706437/whats-the-difference-between-inner-j
 //Java Persisitance
 https://www.infoworld.com/article/3387643/java-persistence-with-jpa-and-hibernate-part-2-many-to-many-relationships.html
 
+//Sample thmeleaf and spring 
+https://www.codejava.net/frameworks/spring-boot/spring-thymeleaf-form-multi-checkboxes-mapping-with-collection-example
+
 
 //Teranary Assosciation using JPA 
 https://coderanch.com/t/218811/databases/ManyToMany-ternary-Relationship
