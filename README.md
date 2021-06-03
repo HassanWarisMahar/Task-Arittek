@@ -27,3 +27,7 @@ https://github.com/kriscfoster/Spring-Data-JPA-Relationships.git
 https://asbnotebook.com/2019/10/03/jpa-many-to-many-example-spring-boot/
 
 
+joins 
+https://stackoverflow.com/questions/5706437/whats-the-difference-between-inner-join-left-join-right-join-and-full-join
+
+
