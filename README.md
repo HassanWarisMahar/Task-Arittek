@@ -30,4 +30,7 @@ https://asbnotebook.com/2019/10/03/jpa-many-to-many-example-spring-boot/
 joins 
 https://stackoverflow.com/questions/5706437/whats-the-difference-between-inner-join-left-join-right-join-and-full-join
 
+//Java Persisitance
+https://www.infoworld.com/article/3387643/java-persistence-with-jpa-and-hibernate-part-2-many-to-many-relationships.html
+
 
