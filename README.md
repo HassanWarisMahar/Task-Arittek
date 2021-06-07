@@ -32,9 +32,19 @@ https://stackoverflow.com/questions/5706437/whats-the-difference-between-inner-j
 
 //Controller Advice
 https://github.com/jovannypcg/exception_handler
-//
-///
-??
+
+
+Login System
+Admin Panel
+User management
+CRUD Students, Teachers, Subjects, Class, Hostels, Stream
+Manage Fees, Events, Timetables, attendance
+Make announcements
+Publish Exam Results
+Add fees structure
+Student’s parent details
+Session
+Database backup
 https://github.com/idrice24/School-Management-Software.git
 School managment System
 
