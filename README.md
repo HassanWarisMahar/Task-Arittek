@@ -66,4 +66,6 @@ https://www.codejava.net/frameworks/spring-boot/spring-thymeleaf-form-multi-chec
 https://coderanch.com/t/218811/databases/ManyToMany-ternary-Relationship
 //Impl JWT Sample 
 https://bezkoder.com/spring-boot-jwt-mysql-spring-security-architecture/
+...
+https://bezkoder.com/spring-boot-jwt-authentication/
 
